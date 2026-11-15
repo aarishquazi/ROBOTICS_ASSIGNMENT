@@ -1,0 +1,4 @@
+# Optional local speech recognition and microphone capture.
+# Install only when you want speech input; text input does not need these.
+openai-whisper
+sounddevice>=0.4.6

@@ -1,0 +1,4 @@
+numpy>=1.24
+pydantic>=2.7,<3
+langchain-core>=0.3
+langchain-groq>=0.3.8
